@@ -1,4 +1,4 @@
-🤖 Currently working on machine learning and ai agents
-🐋 Dockrize full stack applications
-👨‍💻 Exploring new technologies
-💡 Intrested in automation
+🤖 Currently working on machine learning and ai agents <br/>
+🐋 Dockrize full stack applications<br/>
+👨‍💻 Exploring new technologies<br/>
+💡 Intrested in automation<br/>
